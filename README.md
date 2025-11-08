@@ -9,30 +9,7 @@ A simple To-Do List application built with React and TypeScript.
 -  **Remove Item**: Delete items from the list
 -  **Done/Undone**: Toggle task completion status
 
-## Project Structure
 
-```
-To-Do-List_KPM-Assesment/
-├── src/
-│   ├── App.tsx          # Main component with all functionality
-│   ├── App.css          # Styles
-│   ├── App.test.tsx     # Unit tests
-│   ├── main.tsx         # Entry point
-│   └── test/
-│       └── setup.ts     # Test configuration
-├── package.json
-├── tsconfig.json
-├── vite.config.ts
-└── README.md
-```
-
-## Technologies Used
-
-- **React 18**: UI library
-- **TypeScript**: Type safety
-- **Vite**: Build tool and development server
-- **Vitest**: Unit testing framework
-- **React Testing Library**: Testing utilities
 
 ## Getting Started
 
