@@ -85,6 +85,6 @@ The project includes unit tests covering:
 - Form validation and input handling
 - Component rendering
 
-## License
+## Goal
 
 This project was created for the KPM Power Inc. coding assessment.
