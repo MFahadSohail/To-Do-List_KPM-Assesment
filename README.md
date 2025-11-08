@@ -4,10 +4,10 @@ A simple To-Do List application built with React and TypeScript.
 
 ## Features
 
-- ✅ **Add Item**: Add new to-do items to the list
-- ✏️ **Edit Item**: Modify existing to-do items
-- 🗑️ **Remove Item**: Delete items from the list
-- ✅ **Done/Undone**: Toggle task completion status
+-  **Add Item**: Add new to-do items to the list
+-  **Edit Item**: Modify existing to-do items
+-  **Remove Item**: Delete items from the list
+-  **Done/Undone**: Toggle task completion status
 
 ## Project Structure
 
